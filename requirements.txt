@@ -1,0 +1,12 @@
+
+pymupdf
+pillow
+pytesseract
+pdf2image
+tqdm
+paddlepaddle
+opencv-python 
+paddleocr==2.7.3 
+
+## 
+#pip install paddleocr paddlepaddle pdf2image opencv-python
