@@ -1,0 +1,159 @@
+================================================================================
+PDF EXTRACTION VALIDATION REPORT
+Generated: 2026-06-15 12:23:48
+================================================================================
+
+📊 SUMMARY STATISTICS
+----------------------------------------
+total_pages                   : 15
+successful_pages              : 15
+failed_pages                  : 0
+success_rate                  : 100.00
+average_overall_confidence    : 71.31
+average_ocr_confidence        : 82.72
+average_marathi_density       : 90.74
+total_characters_extracted    : 300625
+total_words_extracted         : 45631
+quality_rating                : GOOD
+
+
+📈 PAGE-BY-PAGE ANALYSIS
+----------------------------------------
+
+Page 1: [SUCCESS]
+  Overall Confidence: 67.7%
+  OCR Confidence: 73.4%
+  Marathi Density: 91.0%
+  Characters: 11,542
+  Words: 1,832
+  Issues: Some words have very low confidence
+
+Page 2: [SUCCESS]
+  Overall Confidence: 72.8%
+  OCR Confidence: 85.2%
+  Marathi Density: 92.4%
+  Characters: 16,336
+  Words: 2,400
+  Issues: Some words have very low confidence
+
+Page 3: [SUCCESS]
+  Overall Confidence: 66.2%
+  OCR Confidence: 79.0%
+  Marathi Density: 78.7%
+  Characters: 13,283
+  Words: 2,063
+  Issues: Some words have very low confidence
+
+Page 4: [SUCCESS]
+  Overall Confidence: 71.3%
+  OCR Confidence: 80.7%
+  Marathi Density: 93.3%
+  Characters: 15,637
+  Words: 2,391
+  Issues: Some words have very low confidence
+
+Page 5: [SUCCESS]
+  Overall Confidence: 73.0%
+  OCR Confidence: 83.5%
+  Marathi Density: 95.3%
+  Characters: 19,249
+  Words: 2,788
+  Issues: Some words have very low confidence
+
+Page 6: [SUCCESS]
+  Overall Confidence: 74.7%
+  OCR Confidence: 87.8%
+  Marathi Density: 95.2%
+  Characters: 22,883
+  Words: 3,320
+  Issues: Some words have very low confidence
+
+Page 7: [SUCCESS]
+  Overall Confidence: 75.8%
+  OCR Confidence: 89.8%
+  Marathi Density: 96.1%
+  Characters: 22,230
+  Words: 3,237
+  Issues: Some words have very low confidence
+
+Page 8: [SUCCESS]
+  Overall Confidence: 69.5%
+  OCR Confidence: 84.9%
+  Marathi Density: 81.9%
+  Characters: 34,575
+  Words: 5,295
+  Issues: Some words have very low confidence
+
+Page 9: [SUCCESS]
+  Overall Confidence: 69.0%
+  OCR Confidence: 77.9%
+  Marathi Density: 89.3%
+  Characters: 19,661
+  Words: 3,115
+  Issues: Some words have very low confidence
+
+Page 10: [SUCCESS]
+  Overall Confidence: 71.7%
+  OCR Confidence: 81.7%
+  Marathi Density: 93.2%
+  Characters: 17,347
+  Words: 2,654
+  Issues: Some words have very low confidence
+
+Page 11: [SUCCESS]
+  Overall Confidence: 72.3%
+  OCR Confidence: 83.3%
+  Marathi Density: 93.4%
+  Characters: 17,394
+  Words: 2,728
+  Issues: Some words have very low confidence
+
+Page 12: [SUCCESS]
+  Overall Confidence: 72.1%
+  OCR Confidence: 82.6%
+  Marathi Density: 93.5%
+  Characters: 17,208
+  Words: 2,628
+  Issues: Some words have very low confidence
+
+Page 13: [SUCCESS]
+  Overall Confidence: 74.3%
+  OCR Confidence: 86.4%
+  Marathi Density: 95.9%
+  Characters: 18,469
+  Words: 2,681
+  Issues: Some words have very low confidence
+
+Page 14: [SUCCESS]
+  Overall Confidence: 69.1%
+  OCR Confidence: 84.0%
+  Marathi Density: 81.8%
+  Characters: 33,639
+  Words: 5,206
+  Issues: Some words have very low confidence
+
+Page 15: [SUCCESS]
+  Overall Confidence: 70.3%
+  OCR Confidence: 80.7%
+  Marathi Density: 90.1%
+  Characters: 21,172
+  Words: 3,293
+  Issues: Some words have very low confidence
+
+
+💡 RECOMMENDATIONS
+----------------------------------------
+  • ✅ Extraction quality is good! No immediate improvements needed
+
+
+📊 CONFIDENCE VS EXTRACTION COMPARISON
+----------------------------------------
+High Confidence Pages (>70%): 10 pages
+  Average extracted chars: 18792
+Medium Confidence Pages (40-70%): 5 pages
+  Average extracted chars: 22540
+Low Confidence Pages (<40%): 0 pages
+  Average extracted chars: 0
+
+Correlation: Positive
+Low confidence pages extract 0.0% of the text compared to high confidence pages

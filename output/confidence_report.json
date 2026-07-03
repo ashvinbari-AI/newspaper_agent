@@ -1,0 +1,221 @@
+{
+  "summary": {
+    "total_pages": 15,
+    "successful_pages": 15,
+    "failed_pages": 0,
+    "success_rate": 100.0,
+    "average_overall_confidence": 71.31082137451094,
+    "average_ocr_confidence": 82.72184951747072,
+    "average_marathi_density": 90.74027189174213,
+    "total_characters_extracted": 300625,
+    "total_words_extracted": 45631,
+    "quality_rating": "GOOD"
+  },
+  "page_details": [
+    {
+      "page_number": 1,
+      "status": "SUCCESS",
+      "confidence": 67.65892431351239,
+      "ocr_confidence": 73.40511121628018,
+      "marathi_density": 90.98959942333437,
+      "char_count": 11542,
+      "word_count": 1832,
+      "quality_issues": [
+        "Some words have very low confidence"
+      ]
+    },
+    {
+      "page_number": 2,
+      "status": "SUCCESS",
+      "confidence": 72.80270967724886,
+      "ocr_confidence": 85.22177742193755,
+      "marathi_density": 92.37999569491282,
+      "char_count": 16336,
+      "word_count": 2400,
+      "quality_issues": [
+        "Some words have very low confidence"
+      ]
+    },
+    {
+      "page_number": 3,
+      "status": "SUCCESS",
+      "confidence": 66.18371556762976,
+      "ocr_confidence": 78.96722047597665,
+      "marathi_density": 78.65609125746369,
+      "char_count": 13283,
+      "word_count": 2063,
+      "quality_issues": [
+        "Some words have very low confidence"
+      ]
+    },
+    {
+      "page_number": 4,
+      "status": "SUCCESS",
+      "confidence": 71.26703060412873,
+      "ocr_confidence": 80.68380660015349,
+      "marathi_density": 93.31169321355779,
+      "char_count": 15637,
+      "word_count": 2391,
+      "quality_issues": [
+        "Some words have very low confidence"
+      ]
+    },
+    {
+      "page_number": 5,
+      "status": "SUCCESS",
+      "confidence": 72.976020583475,
+      "ocr_confidence": 83.46179851250845,
+      "marathi_density": 95.3043372615721,
+      "char_count": 19249,
+      "word_count": 2788,
+      "quality_issues": [
+        "Some words have very low confidence"
+      ]
+    },
+    {
+      "page_number": 6,
+      "status": "SUCCESS",
+      "confidence": 74.68913530654544,
+      "ocr_confidence": 87.79572724612233,
+      "marathi_density": 95.23614802698835,
+      "char_count": 22883,
+      "word_count": 3320,
+      "quality_issues": [
+        "Some words have very low confidence"
+      ]
+    },
+    {
+      "page_number": 7,
+      "status": "SUCCESS",
+      "confidence": 75.75022521090935,
+      "ocr_confidence": 89.78569254185693,
+      "marathi_density": 96.11982731388859,
+      "char_count": 22230,
+      "word_count": 3237,
+      "quality_issues": [
+        "Some words have very low confidence"
+      ]
+    },
+    {
+      "page_number": 8,
+      "status": "SUCCESS",
+      "confidence": 69.53318466606363,
+      "ocr_confidence": 84.90575631015072,
+      "marathi_density": 81.90294047334449,
+      "char_count": 34575,
+      "word_count": 5295,
+      "quality_issues": [
+        "Some words have very low confidence"
+      ]
+    },
+    {
+      "page_number": 9,
+      "status": "SUCCESS",
+      "confidence": 68.9541752960116,
+      "ocr_confidence": 77.87631271878647,
+      "marathi_density": 89.34550069499004,
+      "char_count": 19661,
+      "word_count": 3115,
+      "quality_issues": [
+        "Some words have very low confidence"
+      ]
+    },
+    {
+      "page_number": 10,
+      "status": "SUCCESS",
+      "confidence": 71.65117477237398,
+      "ocr_confidence": 81.69122807017544,
+      "marathi_density": 93.24894514767934,
+      "char_count": 17347,
+      "word_count": 2654,
+      "quality_issues": [
+        "Some words have very low confidence"
+      ]
+    },
+    {
+      "page_number": 11,
+      "status": "SUCCESS",
+      "confidence": 72.32392627189421,
+      "ocr_confidence": 83.28527078302864,
+      "marathi_density": 93.36605986227585,
+      "char_count": 17394,
+      "word_count": 2728,
+      "quality_issues": [
+        "Some words have very low confidence"
+      ]
+    },
+    {
+      "page_number": 12,
+      "status": "SUCCESS",
+      "confidence": 72.09583382661934,
+      "ocr_confidence": 82.62608069164266,
+      "marathi_density": 93.4846718332076,
+      "char_count": 17208,
+      "word_count": 2628,
+      "quality_issues": [
+        "Some words have very low confidence"
+      ]
+    },
+    {
+      "page_number": 13,
+      "status": "SUCCESS",
+      "confidence": 74.3263385901577,
+      "ocr_confidence": 86.41768953068592,
+      "marathi_density": 95.86420925961112,
+      "char_count": 18469,
+      "word_count": 2681,
+      "quality_issues": [
+        "Some words have very low confidence"
+      ]
+    },
+    {
+      "page_number": 14,
+      "status": "SUCCESS",
+      "confidence": 69.1345619008502,
+      "ocr_confidence": 84.02072633895818,
+      "marathi_density": 81.75423788422312,
+      "char_count": 33639,
+      "word_count": 5206,
+      "quality_issues": [
+        "Some words have very low confidence"
+      ]
+    },
+    {
+      "page_number": 15,
+      "status": "SUCCESS",
+      "confidence": 70.31536403024383,
+      "ocr_confidence": 80.68354430379746,
+      "marathi_density": 90.13982102908278,
+      "char_count": 21172,
+      "word_count": 3293,
+      "quality_issues": [
+        "Some words have very low confidence"
+      ]
+    }
+  ],
+  "recommendations": [
+    "✅ Extraction quality is good! No immediate improvements needed"
+  ],
+  "comparison_stats": {
+    "high_confidence_pages": {
+      "count": 10,
+      "avg_chars": 18792.5,
+      "avg_words": 2812.0
+    },
+    "medium_confidence_pages": {
+      "count": 5,
+      "avg_chars": 22540.0,
+      "avg_words": 3502.2
+    },
+    "low_confidence_pages": {
+      "count": 0,
+      "avg_chars": 0,
+      "avg_words": 0
+    },
+    "confidence_vs_extraction": {
+      "correlation": "Positive",
+      "high_conf_avg_chars": 18792.5,
+      "low_conf_avg_chars": 0
+    }
+  }
+}
